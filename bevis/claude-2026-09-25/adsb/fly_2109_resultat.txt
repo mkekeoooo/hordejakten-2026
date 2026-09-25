@@ -1,0 +1,31 @@
+Høydevinkel (°) ved samme øyeblikk = strømtid 21:29:38 minus forsinkelse. Kolonner: forsinkelse i sekunder.
+
+NOZ9EG (LN-NIQ, 4791ac)  posisjon ved 22 s: 61.317 N 10.904 E, 25920 ft geom
+sted                            15    22    30    45    50   maks i 21:29:40–21:34:00 strøm (22 s)
+1 Myklebysæterveien vest        29    33    37    46    48   32° kl. 21:29:40 strøm
+2 Madsskardveien traktorvei     20    22    24    28    30   21° kl. 21:29:40 strøm
+3 S-Messelt S1                  21    24    27    35    38   23° kl. 21:29:40 strøm
+3 S-Messelt S2                  22    24    27    36    40   23° kl. 21:29:40 strøm
+4 Madsskardveien øst            19    20    22    26    27   20° kl. 21:29:40 strøm
+5a Jernvinneveien               20    22    24    28    29   21° kl. 21:29:40 strøm
+A1 Birkebeinerveien             23    26    29    38    42   25° kl. 21:29:40 strøm
+A2 Gålaveien C07                22    24    28    36    39   24° kl. 21:29:40 strøm
+Sjusjøen                        22    21    20    18    18   24° kl. 21:30:12 strøm
+Rudshøgda                       10     9     9     9     8   59° kl. 21:32:46 strøm
+Løten                            7     7     7     7     7   11° kl. 21:32:50 strøm
+Elverum S (default.no #1)        5     5     5     5     5   7° kl. 21:32:50 strøm
+
+NOZ56U (LN-ENN, 47a3b0)  posisjon ved 22 s: 60.739 N 11.222 E, 20655 ft geom
+sted                            15    22    30    45    50   maks i 21:29:40–21:34:00 strøm (22 s)
+1 Myklebysæterveien vest         4     4     4     4     3   17° kl. 21:34:00 strøm
+2 Madsskardveien traktorvei      4     4     4     3     3   16° kl. 21:34:00 strøm
+3 S-Messelt S1                   4     3     3     3     3   12° kl. 21:34:00 strøm
+3 S-Messelt S2                   4     3     3     3     3   12° kl. 21:34:00 strøm
+4 Madsskardveien øst             4     4     4     3     3   16° kl. 21:34:00 strøm
+5a Jernvinneveien                4     4     4     3     3   17° kl. 21:34:00 strøm
+A1 Birkebeinerveien              4     4     4     3     3   14° kl. 21:34:00 strøm
+A2 Gålaveien C07                 4     4     4     3     3   14° kl. 21:34:00 strøm
+Sjusjøen                         5     5     4     4     4   13° kl. 21:34:00 strøm
+Rudshøgda                       12    11    11    10     9   17° kl. 21:31:36 strøm
+Løten                           31    28    25    20    19   49° kl. 21:30:32 strøm
+Elverum S (default.no #1)       16    16    16    15    15   16° kl. 21:30:00 strøm

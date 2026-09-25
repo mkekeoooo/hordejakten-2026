@@ -1,0 +1,8 @@
+1 Myklebysæterveien vest     bakke 593.8 moh  horisont 0.5° mot 98.8°  (ved 3200 m, 623 moh)
+2 Madsskardveien traktorvei  bakke 597.6 moh  horisont 1.8° mot 98.8°  (ved 2425 m, 677 moh)
+3 Sørlige Messelt S1         bakke 898.1 moh  horisont -0.4° mot 98.8°  (ved 18500 m, 789 moh)
+3 Sørlige Messelt S2         bakke 876.6 moh  horisont -0.5° mot 98.8°  (ved 17700 m, 747 moh)
+4 Madsskardveien øst         bakke 646.4 moh  horisont 3.8° mot 98.8°  (ved 1475 m, 745 moh)
+5a Jernvinneveien            bakke 555.8 moh  horisont 8.4° mot 98.8°  (ved 800 m, 676 moh)
+5b Jernvinneveien            bakke 542.5 moh  horisont 7.3° mot 98.8°  (ved 1050 m, 679 moh)
+5c Jernvinneveien            bakke 528.0 moh  horisont 6.6° mot 98.8°  (ved 1300 m, 681 moh)

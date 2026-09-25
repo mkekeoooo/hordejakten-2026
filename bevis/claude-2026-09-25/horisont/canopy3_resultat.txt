@@ -1,0 +1,9 @@
+Medians over 25 positions. lit% (skip5 | skip10) and transmission T% at 07:40/07:47/07:50/08:00/08:30
+1 Myklebysaeterveien vest    skip5   0   0   0   0   0 | skip10   0   0   0   0   0 | T  39  37  39  41  42 | terrain-blocked@07:50 0%
+2 Madsskardveien traktorvei  skip5   0   0   0   0   0 | skip10   0   0   0   0   0 | T  56  55  56  58  70 | terrain-blocked@07:50 0%
+3a S-Messelt S1              skip5   0   0   0   0   0 | skip10   0   0   0   0   0 | T  41  39  42  40  50 | terrain-blocked@07:50 0%
+3b S-Messelt S2              skip5   0   0   0   0   0 | skip10   0   0   0   0   0 | T  35  40  40  44  57 | terrain-blocked@07:50 0%
+4 Madsskardveien ost         skip5   0   0   0   0   0 | skip10   0   0   0   0   0 | T  11  14  19  30  44 | terrain-blocked@07:50 0%
+5 Jernvinneveien             skip5   0   0   0   0   0 | skip10   0   0   0   0   0 | T   0   0   0   0  23 | terrain-blocked@07:50 100%
+A1 Birkebeinerveien          skip5   0   0   0   0   0 | skip10   0   0   0   0   0 | T   0   0   0   0   0 | terrain-blocked@07:50 NaN%
+A2 Galaveien C07             skip5   0   0   0   0   0 | skip10   0   0   0   0  38 | T  51  55  56  64  83 | terrain-blocked@07:50 0%

@@ -1,0 +1,10 @@
+Share of visible top-right patch in direct sun at 07:40 / 07:44 / 07:47 / 07:50 / 08:00 / 08:30
+name                         pos OK/25 centre patch lit %         centre ground lit %        patchN OK offsets (E,N m)
+1 Myklebysaeterveien vest            0   0   0   0   0   0   0      0   0   0   0   0   0       143 
+2 Madsskardveien traktorvei          0  55  55  59  53  55  34      0   0   0   0   0   0       143 
+3a S-Messelt S1                      1   0   0   0   0   0   0      0   0   0   0   0   0       143 0,20
+3b S-Messelt S2                      0   0   0   0   0   0   0      0   0   0   0   0   0       143 
+4 Madsskardveien ost                 0   0   0   0   0   0   0      0   0   0   0   0   0       143 
+5 Jernvinneveien                     0   0   0   0   0   0   0      0   0   0   0   0   0       143 
+A1 Birkebeinerveien                  0   0   0   0   0   0   0      0   0   0   0   0   0       143 
+A2 Galaveien C07                     0   1   4   7   8  66  67      0   0   0   0   0   2       143 
