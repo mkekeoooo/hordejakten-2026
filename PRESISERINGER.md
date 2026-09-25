@@ -27,7 +27,7 @@ Rapportens vedlegg B omtaler kandidat-CSV, kameramodell og kjøreskript i en til
 - **Adkomst:** nærmeste kartlagte vei er ikke nødvendigvis brukt adkomst. En rett linje er ikke en rute. Manglende bro i OSM/DOM dokumenterer ikke alene at ingen overgang finnes.
 - **B3:** objektidentitet og diameter er ikke sikkert bestemt. Den gamle avstanden på 17–44 m er trukket tilbake. Historiske figurer kan vise gamle ringer eller utvalg.
 - **Nattlys og støtteapparat:** lysskiftet gir ingen dokumentert retning til vei eller hus. Personell, strøm og nett beviser ikke at en hytte eller fast strømtilførsel ligger nær.
-- **Appvaren med bever/olivenolje:** dette er en ubekreftet brukergjengivelse uten sikker produkttekst, ikke et etablert stedshint.
+- **Appvaren med olivenolje:** Codex har nå lest [to tredjepartsformidlede produktskjermbilder](https://praktiskinfo.no/hordejakten-2026/). Bildet viser en grevling, navnet er «Olivenoljestativ», prisen 100 000 poeng og fraktteksten «Nesten Helt Hjem». Varen er ikke kontrollert direkte i appen, og koblingen til jaktens plassering er fortsatt ubekreftet. Den tidligere omtalen av en bever korrigeres.
 
 ## Interne avvik i rapportene
 
