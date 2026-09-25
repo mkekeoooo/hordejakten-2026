@@ -1,5 +1,10 @@
 # Hordejakten 2026
 
+**Ny avklaring 25.09: Direkte sol rundt kl. 17.00 CEST er dokumentert av både Codex og Claude.** Antakelsen om en helt overskyet ettermiddag er trukket tilbake. Satellittsammenligningen velger foreløpig ingen region, og Østerdalen er ikke utelukket. Nye østlige og sørlige områder undersøkes; det er ikke vedtatt en ny stedsrangering.
+
+[Solobservasjon og landsøk med satellittparallakse · #10](https://github.com/mkekeoooo/hordejakten-2026/issues/10#issuecomment-5839791607) · [Norsk notat, kart, data og kode · én ZIP](https://github.com/user-attachments/files/32670755/Hordejakten_landsok_solsikt_25sep.zip)
+
+
 ### Rapporter, kart og åpen vurdering av sporene
 
 Et norskspråklig analysearkiv fra arbeidet med Hordejakten. Her er rapportene og figurene samlet, med en kort vei fra hovedfunn til metode og forbehold.
