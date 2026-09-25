@@ -1,0 +1,5 @@
+5a Jernvinneveien                960 punkter i synsfeltet · laveste nødvendige høyde for sol kl. 07.50: 38.2 m over bakken (ved 232°, 150 m)
+5b Jernvinneveien                960 punkter i synsfeltet · laveste nødvendige høyde for sol kl. 07.50: 32.4 m over bakken (ved 250°, 15 m)
+5c Jernvinneveien                960 punkter i synsfeltet · laveste nødvendige høyde for sol kl. 07.50: 17.3 m over bakken (ved 214°, 80 m)
+A1 Birkebeinerveien              960 punkter i synsfeltet · laveste nødvendige høyde for sol kl. 07.50: 32.3 m over bakken (ved 188°, 120 m)
+1 Myklebysæterveien (kontroll)   960 punkter i synsfeltet · laveste nødvendige høyde for sol kl. 07.50: 0.0 m over bakken (ved 188°, 5 m)

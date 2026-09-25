@@ -1,0 +1,35 @@
+tilt i bildet (° fra loddrett, − = venstre) · høyde h · asimut A, ved strømtid 21:29:38 − forsinkelse. ✓ = |tilt| 5–25° og mot venstre
+
+NOZ9EG
+sted                  15 s                    22 s                    30 s                    45 s                    
+1 Myklebysæterveien   ✓ -13° h 29 A 212          -4° h 33 A 217           5° h 37 A 223          21° h 46 A 243       
+2 Madsskardveien      ✓  -8° h 20 A 216           0° h 22 A 220          10° h 24 A 224          25° h 28 A 234       
+3 S-Messelt S1          -63° h 21 A 168         -61° h 24 A 167         -58° h 27 A 165         -51° h 35 A 159       
+4 Madsskardveien øst  ✓  -6° h 19 A 217           3° h 20 A 220          12° h 22 A 224          27° h 26 A 234       
+A1 Birkebeinerveien     -46° h 23 A 194         -41° h 26 A 195         -34° h 29 A 197       ✓ -20° h 38 A 203       
+Koppang                 -61° h 13 A 194         -59° h 14 A 194         -56° h 16 A 195         -48° h 18 A 197       
+Rena                     77° h 13 A 307          77° h 13 A 310          77° h 13 A 313          78° h 12 A 317       
+Løten                    82° h  7 A 336          82° h  7 A 337          82° h  7 A 337          82° h  7 A 339       
+Elverum S                84° h  5 A 331          84° h  5 A 331          84° h  5 A 332          84° h  5 A 333       
+Sjusjøen                -44° h 22 A  62         -38° h 21 A  57         -31° h 20 A  52       ✓ -15° h 18 A  45       
+Osen/Trysil-vest         84° h  5 A 275          84° h  5 A 277          84° h  5 A 278          84° h  5 A 281       
+Trysil                   83° h  5 A 269          83° h  5 A 271          83° h  6 A 272          83° h  6 A 275       
+Engerdal                 58° h  5 A 228          60° h  5 A 229          62° h  5 A 230          65° h  6 A 232       
+Finnskogen               87° h  3 A 312          87° h  3 A 313          87° h  3 A 314          87° h  3 A 315       
+
+NOZ56U
+sted                  15 s                    22 s                    30 s                    45 s                    
+1 Myklebysæterveien     -84° h  4 A 172         -84° h  4 A 172         -85° h  4 A 172         -85° h  4 A 173       
+2 Madsskardveien        -84° h  4 A 176         -84° h  4 A 176         -85° h  4 A 176         -85° h  3 A 177       
+3 S-Messelt S1          -86° h  4 A 165         -86° h  3 A 165         -86° h  3 A 166         -86° h  3 A 166       
+4 Madsskardveien øst    -84° h  4 A 177         -85° h  4 A 177         -85° h  4 A 177         -85° h  3 A 177       
+A1 Birkebeinerveien     -85° h  4 A 170         -85° h  4 A 171         -85° h  4 A 171         -86° h  3 A 171       
+Koppang                 -85° h  3 A 174         -85° h  3 A 174         -86° h  3 A 174         -86° h  3 A 174       
+Rena                    -74° h  8 A 191         -75° h  8 A 190         -76° h  7 A 190         -77° h  6 A 190       
+Løten                     4° h 31 A 222          -3° h 28 A 218       ✓ -11° h 25 A 214         -25° h 20 A 209       
+Elverum S                72° h 16 A 285          72° h 16 A 282          72° h 16 A 278          71° h 15 A 271       
+Sjusjøen                -85° h  5 A 149         -85° h  5 A 149         -85° h  4 A 150         -86° h  4 A 151       
+Osen/Trysil-vest         60° h  4 A 226          59° h  4 A 225          57° h  4 A 225          53° h  3 A 224       
+Trysil                   35° h  4 A 222          30° h  3 A 221          23° h  3 A 221           8° h  3 A 220       
+Engerdal                -83° h  2 A 199         -84° h  2 A 199         -84° h  2 A 199         -85° h  2 A 199       
+Finnskogen               85° h  5 A 284          85° h  4 A 283          85° h  4 A 281          85° h  4 A 279       
