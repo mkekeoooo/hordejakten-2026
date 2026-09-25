@@ -1,0 +1,9 @@
+name                        pass/25 centre K0 K1 K2 K3 K4 (value)                  view p90 / p99 tree height (centre)
+1 Myklebysaeterveien vest         0 ✗10.4 ✓0.2 ✓15.6 ✓11.5 ✓17.9                   17.3 / 21.3 m
+2 Madsskardveien traktorvei       1 ✓0.1 ✓0.1 ✓13.9 ✓12.2 ✓12.4                    12.2 / 16.9 m
+3a S-Messelt S1                   2 ✗8.0 ✗6.9 ✓17.5 ✗5.9 ✓13.5                     12.8 / 18.5 m
+3b S-Messelt S2                   0 ✓0.7 ✗4.2 ✗8.9 ✗5.5 ✓13.2                      11.7 / 17.7 m
+4 Madsskardveien ost              1 ✓0.5 ✓2.8 ✓14.7 ✓16.5 ✓18.0                    14.8 / 20.2 m
+5a Jernvinneveien                 2 ✗12.4 ✓3.0 ✓11.0 ✓12.2 ✓12.8                   12.6 / 15.9 m
+A1 Birkebeinerveien               0 ✓0.9 ✓0.4 ✗5.6 ✗2.8 ✗1.8                       2.3 / 9.1 m
+A2 Galaveien C07                  4 ✓0.0 ✓0.1 ✓13.2 ✓14.7 ✓13.3                    15.5 / 20.3 m
