@@ -58,6 +58,22 @@ Bruk [Issues](https://github.com/mkekeoooo/hordejakten-2026/issues) til dokument
 
 Kartlinjer er ikke verifiserte gangruter, og veipunkter er ikke bekreftede parkeringsplasser. Følg arrangørens regler og respekter terreng, bommer og mannskap.
 
+## 🐈 Forker du? Ta med katten.
+
+![Inspektør Pus – avdeling for ubekreftede spor](etterforskningskatten.svg)
+
+Dette er **Inspektør Pus**, vår uoffisielle etterforsker. Han har undersøkt alle pappeskene og nekter å kommentere funnene.
+
+**Repoets eneste katteskikk:** Lager du en fork, la Pus bli med i README-en. Du kan endre teoriene, flytte kartnålene og være uenig med oss. Katten ber bare om å få beholde jobben.
+
+*En frivillig tradisjon, ikke et lisenskrav. Pus godkjenner snacks, ikke konklusjoner.*
+
+Vil du ta ham med til et annet prosjekt? Kopier SVG-filen og denne linjen til README-en:
+
+```markdown
+![Inspektør Pus – avdeling for ubekreftede spor](etterforskningskatten.svg)
+```
+
 ---
 
 Uavhengig analysearbeid med AI-assistanse fra Claude og Codex, samlet av repositoriets eier. Ingen tilknytning til Horde. Takk til default.no og bidragsyterne til de åpne datakildene.
