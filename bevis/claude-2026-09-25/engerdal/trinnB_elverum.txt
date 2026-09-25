@@ -1,0 +1,119 @@
+60.89046, 11.17240: 1 m K0–K4 består 0/25
+60.81348, 11.18345: 1 m K0–K4 består 1/25 · beste 60.81366, 11.18308 K=0.0/0.0/13.3/10.7/17.6 · morgensol krever flate ≥ 0.0 m
+60.86166, 11.18691: 1 m K0–K4 består 2/25 · beste 60.86148, 11.18709 K=0.0/0.1/13.2/18.9/15.3 · morgensol krever flate ≥ 0.0 m
+60.77829, 11.21062: 1 m K0–K4 består 4/25 · beste 60.77829, 11.21062 K=0.8/0.5/15.6/19.5/19.4 · morgensol krever flate ≥ 0.0 m
+60.77660, 11.21449: 1 m K0–K4 består 1/25 · beste 60.77660, 11.21449 K=0.1/2.2/18.0/14.8/21.1 · morgensol krever flate ≥ 0.0 m
+60.76663, 11.24324: 1 m K0–K4 består 0/25
+60.83139, 11.24484: 1 m K0–K4 består 2/25 · beste 60.83139, 11.24484 K=0.0/2.8/16.2/14.5/22.1 · morgensol krever flate ≥ 0.0 m
+60.77953, 11.25459: 1 m K0–K4 består 0/25
+60.77886, 11.26294: 1 m K0–K4 består 1/25 · beste 60.77868, 11.26257 K=0.1/1.2/14.3/19.9/16.6 · morgensol krever flate ≥ 0.0 m
+60.90236, 11.25955: 1 m K0–K4 består 3/25 · beste 60.90244, 11.25918 K=0.1/0.1/16.1/17.6/17.0 · morgensol krever flate ≥ 0.0 m
+60.73049, 11.28509: 1 m K0–K4 består 2/25 · beste 60.73058, 11.28472 K=0.1/1.1/12.5/13.2/13.9 · morgensol krever flate ≥ 0.0 m
+60.90881, 11.26525: 1 m K0–K4 består 0/25
+60.79956, 11.27984: 1 m K0–K4 består 1/25 · beste 60.79947, 11.27947 K=0.4/0.1/19.8/11.3/16.3 · morgensol krever flate ≥ 0.0 m
+60.80972, 11.28970: 1 m K0–K4 består 0/25
+60.83620, 11.30504: 1 m K0–K4 består 1/25 · beste 60.83620, 11.30467 K=0.4/1.5/12.3/15.0/17.5 · morgensol krever flate ≥ 0.0 m
+60.92941, 11.29516: 1 m K0–K4 består 1/25 · beste 60.92950, 11.29553 K=0.3/0.4/10.6/12.1/13.6 · morgensol krever flate ≥ 0.0 m
+60.74636, 11.32273: 1 m K0–K4 består 0/25
+60.79161, 11.31754: 1 m K0–K4 består 2/25 · beste 60.79161, 11.31754 K=0.0/0.2/19.2/18.1/18.5 · morgensol krever flate ≥ 0.0 m
+60.77085, 11.33095: 1 m K0–K4 består 0/25
+60.91214, 11.32116: 1 m K0–K4 består 2/25 · beste 60.91232, 11.32116 K=2.3/0.2/10.6/11.9/15.2 · morgensol krever flate ≥ 0.0 m
+60.79853, 11.35721: 1 m K0–K4 består 1/25 · beste 60.79844, 11.35758 K=0.1/0.1/13.8/14.3/19.2 · morgensol krever flate ≥ 0.0 m
+60.79024, 11.36643: 1 m K0–K4 består 3/25 · beste 60.79042, 11.36606 K=2.3/2.5/11.1/17.4/14.2 · morgensol krever flate ≥ 0.0 m
+60.78985, 11.36831: 1 m K0–K4 består 1/25 · beste 60.79003, 11.36831 K=0.8/2.3/11.9/11.5/20.2 · morgensol krever flate ≥ 0.0 m
+60.76750, 11.37268: 1 m K0–K4 består 2/25 · beste 60.76759, 11.37305 K=2.8/1.0/18.4/19.2/17.0 · morgensol krever flate ≥ 0.0 m
+60.77658, 11.37625: 1 m K0–K4 består 3/25 · beste 60.77640, 11.37625 K=0.2/0.1/10.3/18.6/17.3 · morgensol krever flate ≥ 0.0 m
+60.74532, 11.38345: 1 m K0–K4 består 3/25 · beste 60.74532, 11.38345 K=0.1/0.7/14.5/16.8/16.5 · morgensol krever flate ≥ 0.0 m
+60.75898, 11.39017: 1 m K0–K4 består 0/25
+60.79499, 11.39255: 1 m K0–K4 består 0/25
+60.78698, 11.39529: 1 m K0–K4 består 0/25
+60.85824, 11.38818: 1 m K0–K4 består 0/25
+60.84153, 11.40204: 1 m K0–K4 består 0/25
+60.77844, 11.41188: 1 m K0–K4 består 1/25 · beste 60.77844, 11.41188 K=0.0/0.1/20.8/19.0/21.1 · morgensol krever flate ≥ 0.0 m
+60.82754, 11.41650: 1 m K0–K4 består 1/25 · beste 60.82754, 11.41650 K=0.2/0.2/14.8/15.1/17.2 · morgensol krever flate ≥ 0.0 m
+60.85295, 11.42562: 1 m K0–K4 består 2/25 · beste 60.85277, 11.42544 K=2.3/0.8/19.9/18.3/14.9 · morgensol krever flate ≥ 0.0 m
+60.82883, 11.43108: 1 m K0–K4 består 3/25 · beste 60.82865, 11.43071 K=0.1/0.0/16.3/13.8/17.9 · morgensol krever flate ≥ 0.0 m
+60.91127, 11.42186: 1 m K0–K4 består 4/25 · beste 60.91136, 11.42149 K=0.1/0.9/15.1/16.8/13.8 · morgensol krever flate ≥ 0.0 m
+60.90158, 11.42940: 1 m K0–K4 består 0/25
+60.89040, 11.43157: 1 m K0–K4 består 1/25 · beste 60.89040, 11.43120 K=0.9/1.0/14.4/11.9/14.4 · morgensol krever flate ≥ 0.0 m
+60.81702, 11.44344: 1 m K0–K4 består 3/25 · beste 60.81702, 11.44325 K=0.1/0.9/20.8/19.5/17.4 · morgensol krever flate ≥ 0.0 m
+60.81015, 11.45524: 1 m K0–K4 består 0/25
+60.81560, 11.45740: 1 m K0–K4 består 3/25 · beste 60.81542, 11.45721 K=0.1/0.1/10.3/13.9/19.6 · morgensol krever flate ≥ 0.0 m
+60.90405, 11.45496: 1 m K0–K4 består 3/25 · beste 60.90387, 11.45477 K=0.0/2.3/14.8/13.4/18.0 · morgensol krever flate ≥ 0.0 m
+60.74290, 11.47827: 1 m K0–K4 består 4/25 · beste 60.74272, 11.47790 K=0.5/2.0/17.1/13.4/12.4 · morgensol krever flate ≥ 0.0 m
+60.84105, 11.46839: 1 m K0–K4 består 4/25 · beste 60.84087, 11.46802 K=0.0/1.0/14.1/17.6/14.7 · morgensol krever flate ≥ 0.0 m
+60.80660, 11.47403: 1 m K0–K4 består 2/25 · beste 60.80642, 11.47403 K=0.0/2.9/17.7/16.8/15.2 · morgensol krever flate ≥ 0.0 m
+60.92189, 11.46682: 1 m K0–K4 består 0/25
+60.94130, 11.47021: 1 m K0–K4 består 1/25 · beste 60.94130, 11.47021 K=0.3/2.6/14.6/15.5/15.5 · morgensol krever flate ≥ 0.0 m
+60.85485, 11.48068: 1 m K0–K4 består 0/25
+60.75097, 11.49483: 1 m K0–K4 består 4/25 · beste 60.75088, 11.49465 K=0.1/0.2/15.8/15.4/16.9 · morgensol krever flate ≥ 0.0 m
+60.97057, 11.47251: 1 m K0–K4 består 2/25 · beste 60.97039, 11.47269 K=1.6/2.8/15.0/13.5/16.3 · morgensol krever flate ≥ 0.0 m
+60.76319, 11.49809: 1 m K0–K4 består 0/25
+60.82906, 11.49088: 1 m K0–K4 består 4/25 · beste 60.82915, 11.49051 K=1.5/0.8/15.5/13.6/16.5 · morgensol krever flate ≥ 0.0 m
+60.77812, 11.50197: 1 m K0–K4 består 2/25 · beste 60.77821, 11.50160 K=0.8/0.2/13.7/15.7/16.5 · morgensol krever flate ≥ 0.0 m
+60.91625, 11.49144: 1 m K0–K4 består 0/25
+60.77154, 11.50820: 1 m K0–K4 består 3/25 · beste 60.77163, 11.50783 K=2.4/1.3/19.9/19.4/18.9 · morgensol krever flate ≥ 0.0 m
+60.93377, 11.49136: 1 m K0–K4 består 3/25 · beste 60.93377, 11.49099 K=0.1/0.3/16.0/14.3/15.4 · morgensol krever flate ≥ 0.0 m
+60.82182, 11.50640: 1 m K0–K4 består 2/25 · beste 60.82200, 11.50603 K=1.6/0.1/18.3/16.4/16.7 · morgensol krever flate ≥ 0.0 m
+60.74388, 11.51580: 1 m K0–K4 består 1/25 · beste 60.74379, 11.51617 K=0.1/0.3/14.8/19.0/18.7 · morgensol krever flate ≥ 0.0 m
+60.85908, 11.50509: 1 m K0–K4 består 0/25
+60.86406, 11.50639: 1 m K0–K4 består 2/25 · beste 60.86406, 11.50639 K=0.1/0.1/16.4/14.1/15.1 · morgensol krever flate ≥ 0.0 m
+60.74718, 11.52187: 1 m K0–K4 består 6/25 · beste 60.74718, 11.52150 K=0.3/0.9/18.7/13.2/17.3 · morgensol krever flate ≥ 0.0 m
+60.77681, 11.52049: 1 m K0–K4 består 2/25 · beste 60.77699, 11.52031 K=0.8/1.6/19.7/16.0/17.4 · morgensol krever flate ≥ 0.0 m
+60.79114, 11.51894: 1 m K0–K4 består 1/25 · beste 60.79114, 11.51894 K=0.0/0.5/18.5/14.3/18.9 · morgensol krever flate ≥ 0.0 m
+60.74683, 11.52558: 1 m K0–K4 består 4/25 · beste 60.74692, 11.52521 K=1.7/0.0/16.8/15.6/17.4 · morgensol krever flate ≥ 0.0 m
+60.73261, 11.53171: 1 m K0–K4 består 5/25 · beste 60.73279, 11.53134 K=0.7/0.1/14.4/13.1/16.0 · morgensol krever flate ≥ 0.0 m
+60.95401, 11.50946: 1 m K0–K4 består 1/25 · beste 60.95392, 11.50964 K=2.2/1.2/17.0/16.1/14.5 · morgensol krever flate ≥ 0.0 m
+60.73995, 11.53734: 1 m K0–K4 består 2/25 · beste 60.73977, 11.53715 K=1.4/0.8/18.0/16.3/16.3 · morgensol krever flate ≥ 0.0 m
+60.76509, 11.53646: 1 m K0–K4 består 1/25 · beste 60.76509, 11.53628 K=0.9/2.1/20.4/20.1/17.6 · morgensol krever flate ≥ 0.0 m
+60.80230, 11.53336: 1 m K0–K4 består 0/25
+60.86020, 11.53076: 1 m K0–K4 består 3/25 · beste 60.86011, 11.53040 K=2.4/0.8/16.2/15.2/17.2 · morgensol krever flate ≥ 3.2 m
+60.73926, 11.54567: 1 m K0–K4 består 4/25 · beste 60.73926, 11.54567 K=0.5/0.3/20.6/17.7/17.5 · morgensol krever flate ≥ 0.0 m
+60.82485, 11.53644: 1 m K0–K4 består 3/25 · beste 60.82485, 11.53607 K=0.7/2.8/15.0/16.8/17.7 · morgensol krever flate ≥ 0.0 m
+60.82353, 11.53750: 1 m K0–K4 består 2/25 · beste 60.82353, 11.53750 K=0.3/1.0/15.7/13.8/17.4 · morgensol krever flate ≥ 0.0 m
+60.82492, 11.53919: 1 m K0–K4 består 3/25 · beste 60.82483, 11.53901 K=0.7/1.8/15.2/13.3/16.3 · morgensol krever flate ≥ 0.0 m
+60.82315, 11.54030: 1 m K0–K4 består 2/25 · beste 60.82297, 11.54030 K=0.2/0.1/14.3/16.1/14.5 · morgensol krever flate ≥ 0.0 m
+60.79943, 11.54379: 1 m K0–K4 består 2/25 · beste 60.79961, 11.54360 K=0.0/0.8/20.7/20.8/24.7 · morgensol krever flate ≥ 0.0 m
+60.91510, 11.53402: 1 m K0–K4 består 1/25 · beste 60.91510, 11.53402 K=1.0/2.2/17.7/17.1/13.7 · morgensol krever flate ≥ 0.0 m
+60.80714, 11.54663: 1 m K0–K4 består 1/25 · beste 60.80696, 11.54645 K=1.3/0.3/13.1/12.3/16.6 · morgensol krever flate ≥ 0.0 m
+60.76554, 11.55387: 1 m K0–K4 består 2/25 · beste 60.76554, 11.55387 K=2.0/1.4/22.0/19.9/20.5 · morgensol krever flate ≥ 0.0 m
+60.96314, 11.53249: 1 m K0–K4 består 1/25 · beste 60.96314, 11.53249 K=1.5/0.5/13.9/17.6/16.2 · morgensol krever flate ≥ 0.2 m
+60.86638, 11.54392: 1 m K0–K4 består 2/25 · beste 60.86647, 11.54355 K=0.0/1.9/12.0/16.3/13.1 · morgensol krever flate ≥ 0.0 m
+60.94574, 11.53715: 1 m K0–K4 består 2/25 · beste 60.94556, 11.53678 K=1.2/2.3/18.5/17.9/20.1 · morgensol krever flate ≥ 0.0 m
+60.76485, 11.56221: 1 m K0–K4 består 5/25 · beste 60.76494, 11.56184 K=0.1/2.3/20.7/18.8/18.6 · morgensol krever flate ≥ 0.0 m
+60.77843, 11.56626: 1 m K0–K4 består 1/25 · beste 60.77843, 11.56626 K=0.0/0.1/17.2/20.0/19.1 · morgensol krever flate ≥ 0.0 m
+60.93126, 11.55073: 1 m K0–K4 består 2/25 · beste 60.93135, 11.55055 K=0.1/0.1/16.4/15.0/16.8 · morgensol krever flate ≥ 0.0 m
+60.78209, 11.56863: 1 m K0–K4 består 1/25 · beste 60.78227, 11.56863 K=1.4/0.3/10.3/22.1/20.0 · morgensol krever flate ≥ 0.0 m
+60.76510, 11.58974: 1 m K0–K4 består 1/25 · beste 60.76528, 11.58955 K=0.2/0.6/14.1/14.5/17.0 · morgensol krever flate ≥ 12.4 m
+60.93812, 11.57308: 1 m K0–K4 består 1/25 · beste 60.93812, 11.57308 K=0.1/0.1/14.0/14.1/15.7 · morgensol krever flate ≥ 0.0 m
+60.91668, 11.57815: 1 m K0–K4 består 1/25 · beste 60.91659, 11.57778 K=1.2/1.3/12.0/19.8/17.4 · morgensol krever flate ≥ 0.0 m
+60.94503, 11.57972: 1 m K0–K4 består 3/25 · beste 60.94485, 11.57972 K=1.3/0.1/17.9/16.1/21.5 · morgensol krever flate ≥ 0.0 m
+60.94236, 11.59848: 1 m K0–K4 består 1/25 · beste 60.94254, 11.59811 K=2.3/0.8/15.4/12.7/15.4 · morgensol krever flate ≥ 0.0 m
+60.81646, 11.61279: 1 m K0–K4 består 0/25
+60.86722, 11.61202: 1 m K0–K4 består 4/25 · beste 60.86713, 11.61183 K=1.1/1.2/16.9/14.2/18.5 · morgensol krever flate ≥ 0.0 m
+60.76032, 11.63157: 1 m K0–K4 består 2/25 · beste 60.76032, 11.63139 K=0.2/2.7/16.7/16.3/15.2 · morgensol krever flate ≥ 0.0 m
+60.73588, 11.64240: 1 m K0–K4 består 1/25 · beste 60.73588, 11.64240 K=0.1/0.1/16.4/14.6/16.1 · morgensol krever flate ≥ 0.0 m
+60.74814, 11.64754: 1 m K0–K4 består 1/25 · beste 60.74823, 11.64717 K=0.7/0.9/12.7/16.6/13.9 · morgensol krever flate ≥ 0.0 m
+60.86289, 11.63643: 1 m K0–K4 består 2/25 · beste 60.86289, 11.63624 K=0.0/1.9/15.4/14.8/13.3 · morgensol krever flate ≥ 0.0 m
+60.78989, 11.64593: 1 m K0–K4 består 3/25 · beste 60.78998, 11.64556 K=0.0/0.0/13.1/16.0/15.4 · morgensol krever flate ≥ 0.0 m
+60.91597, 11.63914: 1 m K0–K4 består 2/25 · beste 60.91597, 11.63914 K=0.0/0.2/13.2/14.9/14.4 · morgensol krever flate ≥ 0.0 m
+60.77853, 11.65906: 1 m K0–K4 består 4/25 · beste 60.77844, 11.65870 K=0.0/2.2/17.4/15.5/15.6 · morgensol krever flate ≥ 0.0 m
+60.83549, 11.65496: 1 m K0–K4 består 1/25 · beste 60.83549, 11.65496 K=0.0/0.2/14.3/15.1/16.3 · morgensol krever flate ≥ 0.0 m
+60.83908, 11.65458: 1 m K0–K4 består 5/25 · beste 60.83899, 11.65440 K=1.0/0.5/18.7/16.5/15.7 · morgensol krever flate ≥ 0.0 m
+60.85759, 11.65817: 1 m K0–K4 består 4/25 · beste 60.85768, 11.65799 K=0.1/0.0/11.7/12.4/17.5 · morgensol krever flate ≥ 0.0 m
+60.92308, 11.65408: 1 m K0–K4 består 0/25
+60.75878, 11.69602: 1 m K0–K4 består 1/25 · beste 60.75869, 11.69583 K=0.3/1.4/20.2/14.0/13.9 · morgensol krever flate ≥ 0.0 m
+60.76059, 11.69675: 1 m K0–K4 består 1/25 · beste 60.76059, 11.69675 K=2.1/0.7/18.4/24.6/17.9 · morgensol krever flate ≥ 0.0 m
+60.75616, 11.69904: 1 m K0–K4 består 1/25 · beste 60.75598, 11.69941 K=1.3/2.6/12.2/12.7/16.3 · morgensol krever flate ≥ 0.0 m
+60.74018, 11.72546: 1 m K0–K4 består 0/25
+60.81368, 11.71795: 1 m K0–K4 består 0/25
+60.95799, 11.70308: 1 m K0–K4 består 0/25
+60.77518, 11.72373: 1 m K0–K4 består 2/25 · beste 60.77536, 11.72391 K=0.0/0.3/13.6/19.2/16.8 · morgensol krever flate ≥ 0.0 m
+60.75643, 11.72840: 1 m K0–K4 består 2/25 · beste 60.75652, 11.72803 K=0.1/0.4/13.5/17.7/14.9 · morgensol krever flate ≥ 0.0 m
+60.88600, 11.71697: 1 m K0–K4 består 1/25 · beste 60.88591, 11.71679 K=0.0/1.0/20.2/22.4/18.6 · morgensol krever flate ≥ 0.0 m
+60.88868, 11.71670: 1 m K0–K4 består 2/25 · beste 60.88868, 11.71670 K=0.0/0.1/18.7/21.5/15.6 · morgensol krever flate ≥ 0.0 m
+60.83997, 11.72722: 1 m K0–K4 består 2/25 · beste 60.84006, 11.72685 K=2.1/2.8/16.3/10.7/13.1 · morgensol krever flate ≥ 0.0 m
+60.88077, 11.72396: 1 m K0–K4 består 3/25 · beste 60.88086, 11.72359 K=0.0/0.0/17.8/12.7/16.3 · morgensol krever flate ≥ 0.0 m
+60.86242, 11.72676: 1 m K0–K4 består 4/25 · beste 60.86242, 11.72676 K=0.1/2.1/17.5/15.7/17.3 · morgensol krever flate ≥ 0.0 m
+60.74099, 11.74007: 1 m K0–K4 består 0/25
+60.79932, 11.73689: 1 m K0–K4 består 1/25 · beste 60.79950, 11.73671 K=0.0/1.1/10.1/16.3/16.9 · morgensol krever flate ≥ 0.0 m
