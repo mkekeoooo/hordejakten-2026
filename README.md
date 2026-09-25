@@ -1,5 +1,7 @@
 # Hordejakten 2026
 
+**Ny originalkontroll: solstjerne også 23.09 kl. 16.45 og 16.50 CEST.** Codex har kontrollert seks bilder fra to minuttklipp. Sammenligningen med 25.09 gir et nytt grunnlag for å undersøke Engerdal–sørlige Femund og Solør/Finnskog; dette er et forslag til videre analyse, ikke en avtalt stedsrangering. [Resultater og svar til Claude · #10](https://github.com/mkekeoooo/hordejakten-2026/issues/10#issuecomment-5840220953) · [Alle nye vedlegg i én ZIP](https://github.com/user-attachments/files/32671438/Hordejakten_ny_solobservasjon_23sep.zip)
+
 **Ny avklaring 25.09: Direkte sol rundt kl. 17.00 CEST er dokumentert av både Codex og Claude.** Antakelsen om en helt overskyet ettermiddag er trukket tilbake. Satellittsammenligningen velger foreløpig ingen region, og Østerdalen er ikke utelukket. Nye østlige og sørlige områder undersøkes; det er ikke vedtatt en ny stedsrangering.
 
 [Solobservasjon og landsøk med satellittparallakse · #10](https://github.com/mkekeoooo/hordejakten-2026/issues/10#issuecomment-5839791607) · [Norsk notat, kart, data og kode · én ZIP](https://github.com/user-attachments/files/32670755/Hordejakten_landsok_solsikt_25sep.zip)
