@@ -10,7 +10,7 @@ for (const [E, N, la, lo] of rows) {
   const gd = az => { const [x0, y0] = toUTM(la, lo); const [x1, y1] = toUTM(la + 100 * Math.cos(az * d2r) / R / d2r, lo + 100 * Math.sin(az * d2r) / (R * Math.cos(la * d2r)) / d2r); return [(x1 - x0) / 100, (y1 - y0) / 100]; };
   const X0 = Math.floor(E) - 200, Y0 = Math.floor(N) - 200;
   const dom = await tile('DOM', X0, Y0, X0 + 400, Y0 + 400, 1), dtm = await tile('DTM', X0, Y0, X0 + 400, Y0 + 400, 1);
-  const at = (t, x, y) => { const c = Math.floor(x - t.x0), r = Math.floor(t.y1 - y); return c < 0 || r < 0 || c >= t.W || r >= t.H ? NaN : t.d[r * t.W + c]; };
+  const at = (t, x, y) => { const c = Math.floor((x - t.x0) / t.res), r = Math.floor((t.y1 - y) / t.res); return c < 0 || r < 0 || c >= t.W || r >= t.H ? NaN : t.d[r * t.W + c]; };
   const chm = (x, y) => Math.max(0, at(dom, x, y) - at(dtm, x, y));
   let pass = 0, best = null;
   for (let oe = -20; oe <= 20; oe += 10) for (let on = -20; on <= 20; on += 10) {
