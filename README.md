@@ -28,11 +28,13 @@ Metoden finner punkter som passer de valgte modellkravene. Den dokumenterer ikke
 
 ### A. Navngitte undersøkelsespunkter (ingen innbyrdes rangering)
 
-| Punkt | Vær robust | Bildekontroll 2025 (Codex) | Skog og morgensol | Ankomst fra ca. 129°, oppover, 4–12 min, uten vann* | Terrengform |
-|---|---|---|---|---|---|
-| **L07 Elverum/Løten** · 60.82353, 11.53750 | ja | beholdt (uregelmessig åpen stripe med tette sider) | ja | **ja**: fra 128°, 420 m, +23 m, ca. 8,5 min (Codex fant også 108°, 400 m, +21 m, uten kartlagt vann) | svak forsenkning |
-| **A01 Osen/Trysil-vest** · 61.23076, 11.72394 | ja | beholdt (skog med mindre åpninger) | ja | **nei**: oppover bare fra vei i nordvest (494 m, +56 m); fra sør (714 m, 168°) går det nedover | slak kolle (TPI +4,7 m) |
-| **S03 Solør** · 60.53938, 12.18334 | ja | beholdt (sammensatt skogstruktur) | ja | **ja**: fra 116°, 454 m, +11 m, ca. 9 min | flatt |
+| Punkt | Vær robust | Bildekontroll 2025 (Codex) | Skog og morgensol | Ankomst fra ca. 129°, oppover, 4–12 min, uten vann* | Terrengform | Radar 26.09: natt / ca. 07.45** |
+|---|---|---|---|---|---|---|
+| **L07 Elverum/Løten** · 60.82353, 11.53750 | ja | beholdt (uregelmessig åpen stripe med tette sider) | ja | **ja**: fra 128°, 420 m, +23 m, ca. 8,5 min (Codex fant også 108°, 400 m, +21 m, uten kartlagt vann) | svak forsenkning | regn i natt (48 %) / ingen radarnedbør |
+| **A01 Osen/Trysil-vest** · 61.23076, 11.72394 | ja | beholdt (skog med mindre åpninger) | ja | **nei**: oppover bare fra vei i nordvest (494 m, +56 m); fra sør (714 m, 168°) går det nedover | slak kolle (TPI +4,7 m) | **regn i natt (77 %) / svakt (6 %)** |
+| **S03 Solør** · 60.53938, 12.18334 | ja | beholdt (sammensatt skogstruktur) | ja | **ja**: fra 116°, 454 m, +11 m, ca. 9 min | flatt | nesten tørt (7 %) / ingen |
+
+\*\* Anja 26.09 ca. 07.45: «litt småregn nå og litt regn i natt» (gjengitt av default.no). MET-radar, andel ≥ 0,1 mm/t. Småregn fanges ofte dårlig av radar, så radarnedbør er støtte, mens manglende radarnedbør er svakt bevis mot. [#13](https://github.com/mkekeoooo/hordejakten-2026/issues/13)
 
 \* Pila «KOM FRA DEN VEIEN ←» lest som ca. 129° er én usikker tolkning ([#4](https://github.com/mkekeoooo/hordejakten-2026/issues/4)), og hun ble båret. Testen er derfor myk.
 
@@ -40,6 +42,8 @@ Felles for alle: ingen stammer, bjørk eller andre kjennetegn fra bildet er iden
 
 ### B. Øvrige robuste punkter som også består ankomsttesten (ikke bildekontrollert)
 Solør: 60.63783, 12.28269 · 60.54197, 12.32301 · 60.77395, 12.08670 · 60.69195, 12.12567 · 60.55727, 11.77521 · 60.96777, 12.18526 · 60.47394, 12.22924 · 60.45713, 12.15591 · 60.46866, 12.28663 · 60.70008, 11.78694. Elverum/Løten: 60.82483, 11.53901 (ved L07) · 60.79961, 11.54360.
+
+Radar 26.09 ([#13](https://github.com/mkekeoooo/hordejakten-2026/issues/13)): regn både i natt og ca. 07.45 ved Solør 60.77395, 60.96777, 60.69195, 60.70008, 60.63783 og 60.55727. Nesten tørt ved de sørlige Solør-punktene 60.54197, 60.47394, 60.45713 og 60.46866.
 
 Hele grunnlaget står i [`robuste.csv`](https://github.com/mkekeoooo/hordejakten-2026/blob/bevis/claude-2026-09-25/bevis/claude-2026-09-25/engerdal/robuste.csv) (39 punkter) og [`retning.csv`](https://github.com/mkekeoooo/hordejakten-2026/blob/bevis/claude-2026-09-25/bevis/claude-2026-09-25/engerdal/retning.csv) (14 består ankomsttesten).
 
