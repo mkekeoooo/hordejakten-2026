@@ -11,7 +11,28 @@
 
 Et norskspråklig analysearkiv fra arbeidet med Hordejakten. Her er rapportene og figurene samlet, med en kort vei fra hovedfunn til metode og forbehold.
 
-**Status 25. september 2026: Ingen plassering eller region er bekreftet. Den tidligere nummererte kandidatlisten er under revisjon.** Den er bevart som historikk nedenfor, ikke som en gjeldende rangering.
+**Status 26. september 2026: Ingen plassering er bekreftet.** Den gjeldende arbeidslisten for videre kontroll står rett under. Rapportens opprinnelige kandidatliste er bevart som historikk lenger ned.
+
+## Gjeldende arbeidsliste 26.09.2026 (ikke bekreftet)
+
+Rekkefølgen under er rekkefølgen for **videre kontroll** (bildesammenligning, faktisk adkomst, felt). Den bygger på den felles gjennomgangen i [#10](https://github.com/mkekeoooo/hordejakten-2026/issues/10) og [#12](https://github.com/mkekeoooo/hordejakten-2026/issues/12). **Ingen av punktene er bekreftet.** Kjeden har vært vær (satellitt med parallakse, åtte soltidspunkter) → skogkrav (1 m) → morgensol → adkomst → terrengform. Den gir riktig type bestand med ca. ±300 m oppløsning, ikke én lysning.
+
+| Prioritet | Område | Punkt (WGS84) | Hva som støtter | Viktigste forbehold |
+|---|---|---|---|---|
+| 1 | **Osen / Trysil-vest (A01)** | **61.23076, 11.72394** | Forenlig med været i alle fire følsomhetsvarianter (nr. 3 av 39). Beholdt i Codex' bildekontroll med 2025-foto (skog med mindre åpninger). Består skogkravene med 2,8 m margin og morgensolen. Ca. 12 min oppover (+56 m) fra vei uten vannkryssing. Står på en slak kolle (TPI +4,7 m). | Ca. 118 like lysninger innen 300 m. Ingen stammer eller andre kjennetegn fra bildet er identifisert. Ruten er modellert, ikke gått. |
+| 2 | Elverum/Løten (L07) | 60.82353, 11.53750 | Forenlig med været i alle varianter. Beholdt i Codex' bildekontroll. Skogkrav og morgensol. | Kort og slak adkomst (ca. 6 min, +14 m) med bekk. Ca. 250 like lysninger innen 300 m. |
+| 3 | Solør/Finnskog | 60.61433, 12.32469 · 60.53938, 12.18334 · 60.80277, 12.12363 · 60.72728, 11.92034 | Beste værscore blant 31 robuste Solør-punkter. Skogkrav og morgensol. | Ikke bildekontrollert. Det første punktet har kort og flat adkomst (2,6 min). |
+| 4 | Østerdalen, rapportens kandidater | se historisk liste under | Ikke utelukket. Kandidat 1 består skog og morgensol. | Ingen er forenlig med været i alle følsomhetsvarianter. Messelt, Koppang og Sjusjøen svekkes av værsammenligningen. |
+
+**Svekket eller utelukket under premissene** (detaljer i sakene):
+- **Olivin-sporet:** Åheim/Almklovdalen, Bjørkedalen og Onilsa er uforenlige med morgensol og skydekke 21.09. Grøndalsvatnet står åpent. [#11](https://github.com/mkekeoooo/hordejakten-2026/issues/11)
+- **Jernvinneveien 5a/5b og det eksakte A1-/site finder-punktet:** ingen flate i bildet kan ha fått morgensol. [#2](https://github.com/mkekeoooo/hordejakten-2026/issues/2) · [#8](https://github.com/mkekeoooo/hordejakten-2026/issues/8)
+- **Engerdal–sørlige Femund:** værmessig god, men ingen punkt i vårt rutenett består skog, morgensol og adkomst samtidig. Skogen er stort sett for lav. [#12](https://github.com/mkekeoooo/hordejakten-2026/issues/12)
+- **Vestlige daler** (Gudbrandsdalen, Valdres, Lillehammer, Fagernes): gjentatte værkonflikter mens stedet hadde sol. [#10](https://github.com/mkekeoooo/hordejakten-2026/issues/10)
+
+Hele listen over robuste punkter (39) står i [`robuste.csv`](https://github.com/mkekeoooo/hordejakten-2026/blob/bevis/claude-2026-09-25/bevis/claude-2026-09-25/engerdal/robuste.csv). Skript og mellomresultater ligger i samme mappe på bevisgrenen.
+
+**Det som kan flytte listen:** særpregede kjennetegn fra bildet mot ortofoto, arrangørens hint i helga, og feltdokumentasjon. Høydehintet (810–891 moh) er ikke brukt. Tolket som høyde ville det utelukke alle lavlandspunktene over.
 
 ## Siste avklaringer
 
