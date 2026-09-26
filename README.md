@@ -1,5 +1,7 @@
 # Hordejakten 2026
 
+**Oppdatert 26.09: A01, L07 og S03 er felles undersøkelsespunkter, uten innbyrdes rangering.** Codex har kontrollert seks Solør-punkter i valgt 2025-ortofoto og funnet en alternativ østlig adkomst til L07: ca. 400 m, +21 m, uten kryssing av kartlagt vannløp langs luftlinjen. Claude har bekreftet hovedkonklusjonene. Ingen detaljmatch eller plassering er bekreftet. [Nye funn · #12](https://github.com/mkekeoooo/hordejakten-2026/issues/12#issuecomment-5841782649) · [Claudes svar](https://github.com/mkekeoooo/hordejakten-2026/issues/12#issuecomment-5841991804) · [Bilder, kart, data og kode · én ZIP](rapport/Hordejakten_solor_adkomst_26sep.zip)
+
 **Ny originalkontroll: solstjerne også 23.09 kl. 16.45 og 16.50 CEST.** Codex har kontrollert seks bilder fra to minuttklipp. Sammenligningen med 25.09 gir et nytt grunnlag for å undersøke Engerdal–sørlige Femund og Solør/Finnskog; dette er et forslag til videre analyse, ikke en avtalt stedsrangering. [Resultater og svar til Claude · #10](https://github.com/mkekeoooo/hordejakten-2026/issues/10#issuecomment-5840220953) · [Alle nye vedlegg i én ZIP](https://github.com/user-attachments/files/32671438/Hordejakten_ny_solobservasjon_23sep.zip)
 
 **Ny avklaring 25.09: Direkte sol rundt kl. 17.00 CEST er dokumentert av både Codex og Claude.** Antakelsen om en helt overskyet ettermiddag er trukket tilbake. Satellittsammenligningen velger foreløpig ingen region, og Østerdalen er ikke utelukket. Nye østlige og sørlige områder undersøkes; det er ikke vedtatt en ny stedsrangering.
@@ -22,7 +24,7 @@ Oppdatert 26.09 kl. 03 etter Codex' bildekontroll og adkomstkontroll og Claudes 
 4. adkomst;
 5. terrengform.
 
-Den gir riktig type bestand med ca. ±300 m oppløsning, ikke én lysning.
+Metoden finner punkter som passer de valgte modellkravene. Den dokumenterer ikke geografisk nøyaktighet eller en unik lysning. «Robust» viser til de fire undersøkte værmodellvariantene, ikke statistisk sikkerhet.
 
 ### A. Navngitte undersøkelsespunkter (ingen innbyrdes rangering)
 
@@ -34,7 +36,7 @@ Den gir riktig type bestand med ca. ±300 m oppløsning, ikke én lysning.
 
 \* Pila «KOM FRA DEN VEIEN ←» lest som ca. 129° er én usikker tolkning ([#4](https://github.com/mkekeoooo/hordejakten-2026/issues/4)), og hun ble båret. Testen er derfor myk.
 
-Felles for alle: ingen stammer, bjørk eller andre kjennetegn fra bildet er identifisert ovenfra, og det finnes 100–250 like lysninger innen 300 m av hvert punkt.
+Felles for alle: ingen stammer, bjørk eller andre kjennetegn fra bildet er identifisert ovenfra. Finsøket gir mange modelltreff innen 300 m; treffene er ikke dokumentasjon på like mange separate lysninger.
 
 ### B. Øvrige robuste punkter som også består ankomsttesten (ikke bildekontrollert)
 Solør: 60.63783, 12.28269 · 60.54197, 12.32301 · 60.77395, 12.08670 · 60.69195, 12.12567 · 60.55727, 11.77521 · 60.96777, 12.18526 · 60.47394, 12.22924 · 60.45713, 12.15591 · 60.46866, 12.28663 · 60.70008, 11.78694. Elverum/Løten: 60.82483, 11.53901 (ved L07) · 60.79961, 11.54360.
@@ -44,10 +46,10 @@ Hele grunnlaget står i [`robuste.csv`](https://github.com/mkekeoooo/hordejakten
 ### C. Østerdalen, rapportens kandidater
 Ikke utelukket, men ingen av dem er forenlig med været i alle fire følsomhetsvarianter. Messelt, Koppang og Sjusjøen svekkes av værsammenligningen. Se historisk liste under.
 
-### Svekket eller utelukket under premissene
+### Svekket i modell eller bilde — les kildepremissene
 - **Olivin-sporet:** Åheim/Almklovdalen, Bjørkedalen og Onilsa er uforenlige med morgensol og skydekke 21.09. Grøndalsvatnet står åpent. [#11](https://github.com/mkekeoooo/hordejakten-2026/issues/11)
 - **Jernvinneveien 5a/5b og det eksakte A1-/site finder-punktet:** ingen flate i bildet kan ha fått morgensol. [#2](https://github.com/mkekeoooo/hordejakten-2026/issues/2) · [#8](https://github.com/mkekeoooo/hordejakten-2026/issues/8)
-- **Engerdal–sørlige Femund:** ingen punkt i vårt 50 m-rutenett består skog, morgensol og adkomst samtidig. Skogen er stort sett for lav. [#12](https://github.com/mkekeoooo/hordejakten-2026/issues/12)
+- **Engerdal–sørlige Femund:** ingen punkter består det undersøkte 50 m-rutenettet med de valgte skog-, sol- og adkomstkravene. Andre åpninger og adkomster kan være oversett; regionen er ikke utelukket. [#12](https://github.com/mkekeoooo/hordejakten-2026/issues/12)
 - **Vestlige daler** (Gudbrandsdalen, Valdres, Lillehammer, Fagernes): gjentatte værkonflikter mens stedet hadde sol. [#10](https://github.com/mkekeoooo/hordejakten-2026/issues/10)
 - **Solør-markørene 60.61433, 12.32469 og 60.94645, 11.84006:** ligger ved kanten av store hogstflater i 2025-bildet. Naboskogen er ikke utelukket. [#12](https://github.com/mkekeoooo/hordejakten-2026/issues/12)
 
