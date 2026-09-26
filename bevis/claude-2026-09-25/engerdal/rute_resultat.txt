@@ -1,0 +1,4 @@
+A01 Osen: raskest 12.3 min = 0.0 min på 0 m – (+0 m) + 12.3 min utenfor sti 494 m (+56 m, opp 56 m) · krysser utenfor sti: – · TPI(50–150 m) 4.7 m · relieff 200 m: 34 m (p5–p95)
+L07 Elverum/Løten: raskest 6.3 min = 0.0 min på 0 m – (+0 m) + 6.3 min utenfor sti 321 m (+14 m, opp 15 m) · krysser utenfor sti: stream · TPI(50–150 m) -1.4 m · relieff 200 m: 17 m (p5–p95)
+Solør 60.61433: raskest 2.6 min = 0.0 min på 0 m – (+0 m) + 2.6 min utenfor sti 142 m (+0 m, opp 4 m) · krysser utenfor sti: – · TPI(50–150 m) -2.1 m · relieff 200 m: 15 m (p5–p95)
+Solør 60.53938: raskest 8.5 min = 0.0 min på 0 m – (+0 m) + 8.5 min utenfor sti 428 m (+12 m, opp 19 m) · krysser utenfor sti: – · TPI(50–150 m) -0.3 m · relieff 200 m: 15 m (p5–p95)
