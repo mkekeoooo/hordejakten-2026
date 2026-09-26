@@ -15,24 +15,43 @@ Et norskspråklig analysearkiv fra arbeidet med Hordejakten. Her er rapportene o
 
 ## Gjeldende arbeidsliste 26.09.2026 (ikke bekreftet)
 
-Rekkefølgen under er rekkefølgen for **videre kontroll** (bildesammenligning, faktisk adkomst, felt). Den bygger på den felles gjennomgangen i [#10](https://github.com/mkekeoooo/hordejakten-2026/issues/10) og [#12](https://github.com/mkekeoooo/hordejakten-2026/issues/12). **Ingen av punktene er bekreftet.** Kjeden har vært vær (satellitt med parallakse, åtte soltidspunkter) → skogkrav (1 m) → morgensol → adkomst → terrengform. Den gir riktig type bestand med ca. ±300 m oppløsning, ikke én lysning.
+Oppdatert 26.09 kl. 03 etter Codex' bildekontroll og adkomstkontroll og Claudes kombinerte ankomsttest ([#12](https://github.com/mkekeoooo/hordejakten-2026/issues/12)). **Ingen av punktene er bekreftet.** Listen gjelder **videre kontroll** (bildesammenligning, faktisk adkomst, felt). Kjeden har vært:
+1. vær: satellitt med parallakse, åtte soltidspunkter, fire følsomhetsvarianter ([#10](https://github.com/mkekeoooo/hordejakten-2026/issues/10));
+2. skogkrav på 1 m;
+3. morgensol;
+4. adkomst;
+5. terrengform.
 
-| Prioritet | Område | Punkt (WGS84) | Hva som støtter | Viktigste forbehold |
-|---|---|---|---|---|
-| 1 | **Osen / Trysil-vest (A01)** | **61.23076, 11.72394** | Forenlig med været i alle fire følsomhetsvarianter (nr. 3 av 39). Beholdt i Codex' bildekontroll med 2025-foto (skog med mindre åpninger). Består skogkravene med 2,8 m margin og morgensolen. Ca. 12 min oppover (+56 m) fra vei uten vannkryssing. Står på en slak kolle (TPI +4,7 m). | Ca. 118 like lysninger innen 300 m. Ingen stammer eller andre kjennetegn fra bildet er identifisert. Ruten er modellert, ikke gått. |
-| 2 | Elverum/Løten (L07) | 60.82353, 11.53750 | Forenlig med været i alle varianter. Beholdt i Codex' bildekontroll. Skogkrav og morgensol. | Kort og slak adkomst (ca. 6 min, +14 m) med bekk. Ca. 250 like lysninger innen 300 m. |
-| 3 | Solør/Finnskog | 60.61433, 12.32469 · 60.53938, 12.18334 · 60.80277, 12.12363 · 60.72728, 11.92034 | Beste værscore blant 31 robuste Solør-punkter. Skogkrav og morgensol. | Ikke bildekontrollert. Det første punktet har kort og flat adkomst (2,6 min). |
-| 4 | Østerdalen, rapportens kandidater | se historisk liste under | Ikke utelukket. Kandidat 1 består skog og morgensol. | Ingen er forenlig med været i alle følsomhetsvarianter. Messelt, Koppang og Sjusjøen svekkes av værsammenligningen. |
+Den gir riktig type bestand med ca. ±300 m oppløsning, ikke én lysning.
 
-**Svekket eller utelukket under premissene** (detaljer i sakene):
+### A. Navngitte undersøkelsespunkter (ingen innbyrdes rangering)
+
+| Punkt | Vær robust | Bildekontroll 2025 (Codex) | Skog og morgensol | Ankomst fra ca. 129°, oppover, 4–12 min, uten vann* | Terrengform |
+|---|---|---|---|---|---|
+| **L07 Elverum/Løten** · 60.82353, 11.53750 | ja | beholdt (uregelmessig åpen stripe med tette sider) | ja | **ja**: fra 128°, 420 m, +23 m, ca. 8,5 min (Codex fant også 108°, 400 m, +21 m, uten kartlagt vann) | svak forsenkning |
+| **A01 Osen/Trysil-vest** · 61.23076, 11.72394 | ja | beholdt (skog med mindre åpninger) | ja | **nei**: oppover bare fra vei i nordvest (494 m, +56 m); fra sør (714 m, 168°) går det nedover | slak kolle (TPI +4,7 m) |
+| **S03 Solør** · 60.53938, 12.18334 | ja | beholdt (sammensatt skogstruktur) | ja | **ja**: fra 116°, 454 m, +11 m, ca. 9 min | flatt |
+
+\* Pila «KOM FRA DEN VEIEN ←» lest som ca. 129° er én usikker tolkning ([#4](https://github.com/mkekeoooo/hordejakten-2026/issues/4)), og hun ble båret. Testen er derfor myk.
+
+Felles for alle: ingen stammer, bjørk eller andre kjennetegn fra bildet er identifisert ovenfra, og det finnes 100–250 like lysninger innen 300 m av hvert punkt.
+
+### B. Øvrige robuste punkter som også består ankomsttesten (ikke bildekontrollert)
+Solør: 60.63783, 12.28269 · 60.54197, 12.32301 · 60.77395, 12.08670 · 60.69195, 12.12567 · 60.55727, 11.77521 · 60.96777, 12.18526 · 60.47394, 12.22924 · 60.45713, 12.15591 · 60.46866, 12.28663 · 60.70008, 11.78694. Elverum/Løten: 60.82483, 11.53901 (ved L07) · 60.79961, 11.54360.
+
+Hele grunnlaget står i [`robuste.csv`](https://github.com/mkekeoooo/hordejakten-2026/blob/bevis/claude-2026-09-25/bevis/claude-2026-09-25/engerdal/robuste.csv) (39 punkter) og [`retning.csv`](https://github.com/mkekeoooo/hordejakten-2026/blob/bevis/claude-2026-09-25/bevis/claude-2026-09-25/engerdal/retning.csv) (14 består ankomsttesten).
+
+### C. Østerdalen, rapportens kandidater
+Ikke utelukket, men ingen av dem er forenlig med været i alle fire følsomhetsvarianter. Messelt, Koppang og Sjusjøen svekkes av værsammenligningen. Se historisk liste under.
+
+### Svekket eller utelukket under premissene
 - **Olivin-sporet:** Åheim/Almklovdalen, Bjørkedalen og Onilsa er uforenlige med morgensol og skydekke 21.09. Grøndalsvatnet står åpent. [#11](https://github.com/mkekeoooo/hordejakten-2026/issues/11)
 - **Jernvinneveien 5a/5b og det eksakte A1-/site finder-punktet:** ingen flate i bildet kan ha fått morgensol. [#2](https://github.com/mkekeoooo/hordejakten-2026/issues/2) · [#8](https://github.com/mkekeoooo/hordejakten-2026/issues/8)
-- **Engerdal–sørlige Femund:** værmessig god, men ingen punkt i vårt rutenett består skog, morgensol og adkomst samtidig. Skogen er stort sett for lav. [#12](https://github.com/mkekeoooo/hordejakten-2026/issues/12)
+- **Engerdal–sørlige Femund:** ingen punkt i vårt 50 m-rutenett består skog, morgensol og adkomst samtidig. Skogen er stort sett for lav. [#12](https://github.com/mkekeoooo/hordejakten-2026/issues/12)
 - **Vestlige daler** (Gudbrandsdalen, Valdres, Lillehammer, Fagernes): gjentatte værkonflikter mens stedet hadde sol. [#10](https://github.com/mkekeoooo/hordejakten-2026/issues/10)
+- **Solør-markørene 60.61433, 12.32469 og 60.94645, 11.84006:** ligger ved kanten av store hogstflater i 2025-bildet. Naboskogen er ikke utelukket. [#12](https://github.com/mkekeoooo/hordejakten-2026/issues/12)
 
-Hele listen over robuste punkter (39) står i [`robuste.csv`](https://github.com/mkekeoooo/hordejakten-2026/blob/bevis/claude-2026-09-25/bevis/claude-2026-09-25/engerdal/robuste.csv). Skript og mellomresultater ligger i samme mappe på bevisgrenen.
-
-**Det som kan flytte listen:** særpregede kjennetegn fra bildet mot ortofoto, arrangørens hint i helga, og feltdokumentasjon. Høydehintet (810–891 moh) er ikke brukt. Tolket som høyde ville det utelukke alle lavlandspunktene over.
+**Det som kan flytte listen:** særpregede kjennetegn fra bildet mot ortofoto, arrangørens hint i helga, og feltdokumentasjon. Høydehintet (810–891 moh) er ikke brukt. Tolket som høyde ville det utelukke alle lavlandspunktene over. **Regel:** den som legger inn et funn som endrer vurderingen, oppdaterer denne listen i samme commit.
 
 ## Siste avklaringer
 
