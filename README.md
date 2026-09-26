@@ -26,13 +26,15 @@ Oppdatert 26.09 kl. 03 etter Codex' bildekontroll og adkomstkontroll og Claudes 
 
 Metoden finner punkter som passer de valgte modellkravene. Den dokumenterer ikke geografisk nøyaktighet eller en unik lysning. «Robust» viser til de fire undersøkte værmodellvariantene, ikke statistisk sikkerhet.
 
-### A. Navngitte undersøkelsespunkter (ingen innbyrdes rangering)
+### A. Navngitte undersøkelsespunkter
 
-| Punkt | Vær robust | Bildekontroll 2025 (Codex) | Skog og morgensol | Ankomst fra ca. 129°, oppover, 4–12 min, uten vann* | Terrengform | Radar 26.09: natt / ca. 07.45** |
-|---|---|---|---|---|---|---|
-| **L07 Elverum/Løten** · 60.82353, 11.53750 | ja | beholdt (uregelmessig åpen stripe med tette sider) | ja | **ja**: fra 128°, 420 m, +23 m, ca. 8,5 min (Codex fant også 108°, 400 m, +21 m, uten kartlagt vann) | svak forsenkning | regn i natt (48 %) / ingen radarnedbør |
-| **A01 Osen/Trysil-vest** · 61.23076, 11.72394 | ja | beholdt (skog med mindre åpninger) | ja | **nei**: oppover bare fra vei i nordvest (494 m, +56 m); fra sør (714 m, 168°) går det nedover | slak kolle (TPI +4,7 m) | **regn i natt (77 %) / svakt (6 %)** |
-| **S03 Solør** · 60.53938, 12.18334 | ja | beholdt (sammensatt skogstruktur) | ja | **ja**: fra 116°, 454 m, +11 m, ca. 9 min | flatt | nesten tørt (7 %) / ingen |
+**Oppdatert 26.09 ca. 15.30: S03 løftes til førsteprioritet for kontroll** (felles forslag Codex/Claude i [#13](https://github.com/mkekeoooo/hordejakten-2026/issues/13)). Anjas regnreferater 07.45–12.24 er matchet mot MET-radar over hele Sørøst-Norge (233 × 377 celler på 1 km). **Det beste samsvaret i hele regionen ligger samlet rundt 60,54–60,59 N / 12,13–12,19 Ø, rett ved S03 nord for Kirkenær (Grautsjøberget).** Dette er uavhengig av sol-, skog- og adkomstkjeden som først ga S03. Evenstad og A01 var uten radarnedbør hele morgenen, og L07 og Elverum passer dårlig. [Kart](https://github.com/mkekeoooo/hordejakten-2026/blob/bevis/claude-2026-09-25/bevis/claude-2026-09-25/radar/regnkart.png) · forbehold: referatene er gjengitt av default.no og ikke originalkontrollert, og samsvaret er på kilometernivå.
+
+| Punkt | Vær robust | Bildekontroll 2025 (Codex) | Skog og morgensol | Ankomst fra ca. 129°, oppover, 4–12 min, uten vann* | Terrengform | Radar 26.09: natt / ca. 07.45** | Regnsekvens 07.45–12.24 (score 0,05/0,1/0,2, maks 2) |
+|---|---|---|---|---|---|---|---|
+| **S03 Solør** · 60.53938, 12.18334 | ja | beholdt (sammensatt skogstruktur) | ja | **ja**: fra 116°, 454 m, +11 m, ca. 9 min | flatt | nesten tørt (7 %) / ingen | **1,74 / 1,56 / 1,54 – beste i regionen** |
+| **L07 Elverum/Løten** · 60.82353, 11.53750 | ja | beholdt (uregelmessig åpen stripe med tette sider) | ja | **ja**: fra 128°, 420 m, +23 m, ca. 8,5 min (Codex fant også 108°, 400 m, +21 m, uten kartlagt vann) | svak forsenkning | regn i natt (48 %) / ingen radarnedbør | 0,83 / 0,83 / 1,00 – ingen støtte |
+| **A01 Osen/Trysil-vest** · 61.23076, 11.72394 | ja | beholdt (skog med mindre åpninger) | ja | **nei**: oppover bare fra vei i nordvest (494 m, +56 m); fra sør (714 m, 168°) går det nedover | slak kolle (TPI +4,7 m) | **regn i natt (77 %) / svakt (6 %)** | 0,67 / 0,83 / 1,00 – ingen støtte |
 
 \*\* Anja 26.09 ca. 07.45: «litt småregn nå og litt regn i natt» (gjengitt av default.no). MET-radar, andel ≥ 0,1 mm/t. Småregn fanges ofte dårlig av radar, så radarnedbør er støtte, mens manglende radarnedbør er svakt bevis mot. [#13](https://github.com/mkekeoooo/hordejakten-2026/issues/13)
 
