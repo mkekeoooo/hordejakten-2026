@@ -1,0 +1,7 @@
+lat,lon,veitype,avstand_m,stigning_m,hoydemeter_opp,maks_helning_pst,gangtid_min,krysser,min_K_margin_m,morgensol_m
+61.78589,11.9141,primary,512,95,99,45,13.8,bekk,0.3,0
+61.76689,11.93231,unclassified,162,-31,10,82,6.9,bekk,2.6,0
+61.74803,11.95753,service,523,178,178,55,22.0,–,0.7,0
+61.73449,11.96226,service,538,136,136,69,18.7,–,0.9,0
+61.69436,11.97605,track,214,-133,0,102,18.9,–,2.0,0
+61.99669,12.21126,track,873,-21,16,22,11.3,elv+myr+vann,2.1,0
